@@ -3,6 +3,8 @@
   
 Published in [European Psychiatry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393914/)
 
+Cite: Thng, G., Shen, X., Stolicyn, A., Harris, M. A., Adams, M. J., Barbu, M. C., ... Whalley, H. C. (2022). Comparing personalized brain-based and genetic risk scores for major depressive disorder in large population samples of adults and adolescents. European psychiatry : the journal of the Association of European Psychiatrists, 65(1), e44. https://doi.org/10.1192/j.eurpsy.2022.2301
+
 ## prep directory
 * prep_abcd_disease_antidep.R: determine subjects' neurological, psychiatric and antidepressant-use status (in ABCD)
 * prep_abcd_mdd_covariates.R: extract depression phenotype and compile necessary covariates (in ABCD)
